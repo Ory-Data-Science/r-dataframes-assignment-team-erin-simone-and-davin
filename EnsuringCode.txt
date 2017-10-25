@@ -1,0 +1,2 @@
+In order to ensure my code was correct if the data set was thousands of lines long, I would be sure to document everything I did with comments. 
+I would also randomly pick certain lines to verify the code is functional. 
